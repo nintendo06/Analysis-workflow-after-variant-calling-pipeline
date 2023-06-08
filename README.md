@@ -1,7 +1,7 @@
 # Analysis-workflow-after-variant-calling-pipeline
 # Step 1: Annotation
-# Annotate variants with additional information such as gene names, variant effects, conservation scores, and functional predictions.
-# Tools like ANNOVAR, VEP (Variant Effect Predictor), or SnpEff can be used for annotation.
+ Annotate variants with additional information such as gene names, variant effects, conservation scores, and functional predictions.
+ Tools like ANNOVAR, VEP (Variant Effect Predictor), or SnpEff can be used for annotation.
 
 # Step 2: Filtering
 # Apply additional filters to the variants to remove potential false positives or low-confidence variants based on criteria such as quality, read depth, allele frequency, or functional annotations.
